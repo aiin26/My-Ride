@@ -1,0 +1,7 @@
+{
+  "name": "E-Rickshaw Finder",
+  "description": "A mobile-friendly, real-time ride-finding web application for E-Rickshaws, connecting users and drivers via a secure cloud database.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
